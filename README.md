@@ -1,6 +1,6 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+This was created following the (LogRocket: Complex Vue 3 state management made easy with Pinia)(https://blog.logrocket.com/complex-vue-3-state-management-pinia/) tutorial
 
 ## Recommended IDE Setup
 
